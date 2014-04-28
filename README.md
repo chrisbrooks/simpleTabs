@@ -3,7 +3,7 @@ simpleTabs
 
 <h2>About</h2>
 
-jquery script to make fluid responsive tabs.   
+Jquery script to make fluid responsive tabs.   
 
 simpleTabs is a jquery script which allows you to create fluid responsive jquery tabs. The tabs also have window.hash being used so on refresh you will still be kept on the current tab you are viewing.
 
